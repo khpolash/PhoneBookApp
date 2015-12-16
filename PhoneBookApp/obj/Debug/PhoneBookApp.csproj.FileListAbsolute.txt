@@ -1,0 +1,9 @@
+G:\ASP-DotNet\PhoneBookApp\PhoneBookApp\bin\Debug\PhoneBookApp.exe.config
+G:\ASP-DotNet\PhoneBookApp\PhoneBookApp\bin\Debug\PhoneBookApp.exe
+G:\ASP-DotNet\PhoneBookApp\PhoneBookApp\bin\Debug\PhoneBookApp.pdb
+G:\ASP-DotNet\PhoneBookApp\PhoneBookApp\obj\Debug\PhoneBookApp.csprojResolveAssemblyReference.cache
+G:\ASP-DotNet\PhoneBookApp\PhoneBookApp\obj\Debug\PhoneBookApp.Form1.resources
+G:\ASP-DotNet\PhoneBookApp\PhoneBookApp\obj\Debug\PhoneBookApp.Properties.Resources.resources
+G:\ASP-DotNet\PhoneBookApp\PhoneBookApp\obj\Debug\PhoneBookApp.csproj.GenerateResource.Cache
+G:\ASP-DotNet\PhoneBookApp\PhoneBookApp\obj\Debug\PhoneBookApp.exe
+G:\ASP-DotNet\PhoneBookApp\PhoneBookApp\obj\Debug\PhoneBookApp.pdb
